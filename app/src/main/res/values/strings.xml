@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">İlaç Hatırlatıcı</string>
+    <string name="medicine_page">medicine page</string>
+    <string name="empty_users">Kullanıcı yok, eklemek için (+) tıklayınız.</string>
+</resources>
