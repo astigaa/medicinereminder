@@ -7,12 +7,10 @@
  Frontend :
 --  * XML
 
-
-  
   
 | _Açılış Ekranı_    |          _Ekleme Ekranı_                    |               _İlaç Listesi_ |
 |---------------------|--------------------------------------------|-----------------------------------------|
-|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7" alt="home" width="300"/> |
+|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/d3cc10ba-35c9-499e-877e-b4cd3503e0b2" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7" alt="home" width="300"/> |
 
 | _Bildirim_    |
 |---------------------|
