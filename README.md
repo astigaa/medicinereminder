@@ -1,10 +1,10 @@
 
- Tools Used :
- Backend :
+Tools Used :
+Backend :
 * Android Studio IDE
 * Java 
 * SQLite database ( SQLiteOpenHelper )
- Frontend :
+Frontend :
 * XML
 
   
