@@ -28,14 +28,6 @@
 ---
 
 
-| _User List Display Screen_ | _Medicine Screen For Particular User_ | _Add Medicine Dialog Box_ |
-|----------------------------|---------------------------------------|---------------------------|
-|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss4.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss5.png" alt="home" width="300"/>| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss6.png" alt="home" width="300"/> |
-
----
-
-
-
 
 
 ### Need of Project :
