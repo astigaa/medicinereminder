@@ -8,9 +8,6 @@
 --  * SQLite database ( SQLiteOpenHelper )
  Frontend :
 --  * XML
-  ![Screenshot_2](https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee)
-![Screenshot_3](https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7)
-![Screenshot_4](https://github.com/astigaa/medicinereminder/assets/96549536/85e338f6-6978-4ec5-b070-07b1c0f40c94)
 
 <a href="https://twitter.com/beratmsdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beratmsdl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/beratmusdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratmusdal" height="30" width="40" /></a>
@@ -22,24 +19,15 @@
 
   
   
-| _Landing Screen_    |          _Home Screen_                     |               _Add New User Dialog Box_ |
+| _Açılış Ekranı_    |          _Ekleme Ekranı_                    |               _İlaç Listesi_ |
 |---------------------|--------------------------------------------|-----------------------------------------|
 |<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7" alt="home" width="300"/> |
 
-| _Landing Screen_    |
+| _Bildirim_    |
 |---------------------|
 |<img src="https://github.com/astigaa/medicinereminder/assets/96549536/85e338f6-6978-4ec5-b070-07b1c0f40c94" alt="home" width="300"/> |
 ---
 
 
 
-
-### Need of Project :
-&nbsp;&nbsp;&nbsp;&nbsp; Health is the only thing that we should care the most. COVID-19 made all the people aware about the importance of health. In such a situation, forgetting about the medicine timings can severely affect the health of an individual. Taking this into consideration, I came up with the idea of this project. The main feature of this project is that it is `multi-user`. so that all the family members especially the elder people who generally dont have smartphones can get benefitted by saving their schedule in one of the smartphone in their family.
-
-### Key Features :
-1. #### **Offline Advantage** : As the Application works with an offline database which is stored in the device, no internet connection is required, offline storage of database helps in faster read write operations.
-2. #### **Multiple Users** : Medicine timings of multiple users can be stored in the same app in same smartphone.
-3. #### **Medicine Quantity** : Quantities of medicine can also be stored so that one can know, how many tablets or medicines he/she has to take.
-4. #### **User Friendly UI** : The user interface is made using dynamically updating RecyclerViews, which gets updated as we made changes in database.
 
