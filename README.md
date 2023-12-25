@@ -23,8 +23,9 @@
 |---------------------|--------------------------------------------|-----------------------------------------|
 |<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss2.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss3.png" alt="home" width="300"/> |
 
-
-
+| _Landing Screen_    |
+|---------------------|
+|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> |
 ---
 
 
