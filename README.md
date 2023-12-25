@@ -39,9 +39,7 @@
 
 ---
 
-| _Medicine List Display Screen_ | _Notifications For Different Users_ | _Reminder Screen_ |
-|----------------------------|---------------------------------------|---------------------------|
-|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss7.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss8.png" alt="home" width="300"/>| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss9.png" alt="home" width="300"/> |
+
 
 
 
