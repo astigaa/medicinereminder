@@ -1,11 +1,11 @@
 
  Tools Used :
  Backend :
---  * Android Studio IDE
---  * Java 
---  * SQLite database ( SQLiteOpenHelper )
+* Android Studio IDE
+* Java 
+* SQLite database ( SQLiteOpenHelper )
  Frontend :
---  * XML
+* XML
 
   
 | _Açılış Ekranı_    |          _Ekleme Ekranı_                    |               _İlaç Listesi_ |
