@@ -8,7 +8,10 @@
 --  * SQLite database ( SQLiteOpenHelper )
  Frontend :
 --  * XML
-  
+  ![Screenshot_2](https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee)
+![Screenshot_3](https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7)
+![Screenshot_4](https://github.com/astigaa/medicinereminder/assets/96549536/85e338f6-6978-4ec5-b070-07b1c0f40c94)
+
 <a href="https://twitter.com/beratmsdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beratmsdl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/beratmusdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratmusdal" height="30" width="40" /></a>
 <a href="https://instagram.com/beratmusdall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beratmusdall" height="30" width="40" /></a>
@@ -21,11 +24,11 @@
   
 | _Landing Screen_    |          _Home Screen_                     |               _Add New User Dialog Box_ |
 |---------------------|--------------------------------------------|-----------------------------------------|
-|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss2.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss3.png" alt="home" width="300"/> |
+|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/03933c9b-b567-4ffd-b635-fcf08d48a2ee" alt="home" width="300"/> | <img src="https://github.com/astigaa/medicinereminder/assets/96549536/8729ae54-96dc-4cc0-be13-155049dc67f7" alt="home" width="300"/> |
 
 | _Landing Screen_    |
 |---------------------|
-|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/00041cf5-63c3-4676-8b49-bfc0acdce535" alt="home" width="300"/> |
+|<img src="https://github.com/astigaa/medicinereminder/assets/96549536/85e338f6-6978-4ec5-b070-07b1c0f40c94" alt="home" width="300"/> |
 ---
 
 
